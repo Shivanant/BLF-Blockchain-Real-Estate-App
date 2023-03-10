@@ -120,11 +120,11 @@ header {
 }
 
 .header__search {
-  padding: 25px;
-  min-width: 40%;
+  padding: 20px;
+  min-width: 30%;
 
   position: absolute;
-  top: 45%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -217,7 +217,7 @@ header {
 .home {
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0,0, 0, 0.7);
 
   position: fixed;
   top: 50%;
