@@ -1,5 +1,15 @@
 # Real Estate NFT DApp
 
+## Why did i make this app?
+Recently there was A huge crowd gathered to buy houses for DLF but can the inconvinence caused could be avoided?
+I tried implimenting a solution with the help of Blockchain. 
+
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87909132/225570119-4a4c0e84-b1a0-437d-b173-aa0f1807b4c0.png">
+
+
+
+
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
