@@ -1,10 +1,10 @@
 # Real Estate NFT DApp
 
 ## Why did i make this app?
-Recently there was A huge crowd gathered to buy houses for DLF but can the inconvinence caused could be avoided?
-I tried implimenting a solution with the help of Blockchain. 
+ A huge crowd gathered to buy DLF houses.
+ I tried to use Blockchain as an approach to overcome the challange.
 - the Dapp is the decentralized application that is transperent and secure way of transation .
-- it reduces time and inconvinence 
+- it reduces time and inconvinence.
 - it is modern way of transaction than traditional way.
 
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/87909132/225570119-4a4c0e84-b1a0-437d-b173-aa0f1807b4c0.png">
@@ -21,6 +21,7 @@ I tried implimenting a solution with the help of Blockchain.
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
+- Hardhat Framework to run a local node.
 
 ## Setting Up
 ### 1. Clone/Download the Repository
