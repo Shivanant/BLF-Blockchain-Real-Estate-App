@@ -1,4 +1,8 @@
 # Real Estate NFT DApp
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/87909132/231103997-3b7e1f9e-940c-4d02-bd1b-f33ab4411619.png">
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/87909132/231103680-5c0d8f00-1750-4a47-bcb6-fde4ada62365.png">
+
 
 ## Why did i make this app?
  A huge crowd gathered to buy DLF houses.
